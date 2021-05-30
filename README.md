@@ -18,9 +18,14 @@ une fois une crypto-monnaie sélectionnée, nous avons un écran contenant leurs
 
 # Contenu de l'application
 Cette application contient les éléments suivant:
+
 -RecyclerView
+
 -Base de données locale
+
 -API
+
 -Structure MVVM/MVC
+
 -Systeme de recherche
 
